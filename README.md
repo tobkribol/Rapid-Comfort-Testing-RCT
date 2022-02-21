@@ -46,18 +46,6 @@ The overall time is reduced by 96 % by using ANN models for predicting annual te
 illuminance values
 
 ## BACKGROUND
-Humans spend 87 % of their time indoors, mostly in their own residence. The indoor environment is a
-crucial factor for people’s health and welfare (Klepeis et al., 2001). It is well-known that windows
-have a considerable impact on both energy use and indoor environment. Study shows that long-term
-impact of attending a daylit school, could result in a 14 % increase in student performance in contrast
-to a classroom without windows (Bailey and Nicklas, 1996). Buildings also account for 40 % of
-energy use in the EU (EPBD, 2010). In recent years buildings in Norway have become more insulated
-and airtight due to more ambitious building projects with certifications such as BREEAM and ZEB.
-With hotter climate there has been increasingly challenge with overheating in buildings (Tian and
-Hrynyszyn, 2020). In addition, centralization and stricter building codes has led us to build more
-compact, making it more challenging to achieve daylight criteria in new building projects (Reinhart
-and Selkowitz, 2006, Chen and Yang, 2015). 
-
 Given the increasing complexity of energy and environmental challenges the building sector is facing,
 Building Performance Simulation (BPS) is proving to be an effective approach for supporting the
 design and operation of high-performance buildings, such as zero-energy buildings or zero-emission
