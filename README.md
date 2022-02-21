@@ -1,5 +1,6 @@
 # Rapid Comfort Testing (RCT)
-✔️ Version: 1.0 
+▶️ [Download thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2828748) 
+| ✔️ Version: 1.0 
 | Submitted by: TK
 
 🛠️ Faculty of Engineering | 📚 Department of Civil and Environmental Engineering
